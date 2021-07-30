@@ -1,0 +1,16 @@
+C:\Users\Gabriel\source\repos\DollarHG\DollarHG\bin\Debug\DollarHG.exe.config
+C:\Users\Gabriel\source\repos\DollarHG\DollarHG\bin\Debug\DollarHG.exe
+C:\Users\Gabriel\source\repos\DollarHG\DollarHG\bin\Debug\DollarHG.pdb
+C:\Users\Gabriel\source\repos\DollarHG\DollarHG\bin\Debug\MetroFramework.Design.dll
+C:\Users\Gabriel\source\repos\DollarHG\DollarHG\bin\Debug\MetroFramework.dll
+C:\Users\Gabriel\source\repos\DollarHG\DollarHG\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Gabriel\source\repos\DollarHG\DollarHG\obj\Debug\DollarHG.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\DollarHG\DollarHG\obj\Debug\DollarHG.FrmCotacaoDolar.resources
+C:\Users\Gabriel\source\repos\DollarHG\DollarHG\obj\Debug\DollarHG.Properties.Resources.resources
+C:\Users\Gabriel\source\repos\DollarHG\DollarHG\obj\Debug\DollarHG.csproj.GenerateResource.cache
+C:\Users\Gabriel\source\repos\DollarHG\DollarHG\obj\Debug\DollarHG.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\DollarHG\DollarHG\obj\Debug\DollarHG.csproj.CopyComplete
+C:\Users\Gabriel\source\repos\DollarHG\DollarHG\obj\Debug\DollarHG.exe
+C:\Users\Gabriel\source\repos\DollarHG\DollarHG\obj\Debug\DollarHG.pdb
+C:\Users\Gabriel\source\repos\DollarHG\DollarHG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gabriel\source\repos\DollarHG\DollarHG\bin\Debug\Newtonsoft.Json.xml
